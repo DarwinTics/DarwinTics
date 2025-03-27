@@ -1,5 +1,5 @@
 # 💻 About Me
-¡Bienvenido a Darwin TIC! Soy un apasionado por la programación y el desarrollo de sitios web y aplicaciones móviles. Mi enfoque está en crear soluciones tecnológicas innovadoras utilizando herramientas y lenguajes.
+¡Bienvenido a Darwin Tics! Soy un apasionado por la programación y el desarrollo de sitios web y aplicaciones móviles. Mi enfoque está en crear soluciones tecnológicas innovadoras utilizando herramientas y lenguajes.
 
 ## 🌐 Connect With Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/share/15ZGiukTXG/) 
